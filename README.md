@@ -5,7 +5,9 @@
 
 ### 💬 Get in touch
 
-- [Ask Me Anything](https://github.com/BouweCeunen/ama)
+- [Web](https://www.bouweceunen.com/)
 - [Twitter](https://twitter.com/BouweCeunen)
 - [LinkedIn](https://www.linkedin.com/in/BouweCeunen/)
-- [Web](https://www.bouweceunen.com/)
+- [Medium](https://www.medium.com/BouweCeunen)
+- [Kaggle](https://www.kaggle.com/BouweCeunen)
+- [Numerai](https://www.numer.ai/ceunen_)
