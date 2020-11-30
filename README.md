@@ -1,4 +1,4 @@
-# Bouwe Ceunen -- Machine Learning / DevOps / Software engineer
+# Machine Learning / DevOps / Software engineer @ [Ceunen.io](https://www.ceunen.io)
 
 ![Bouwe Ceunen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouweceunen&show_icons=true)
 
