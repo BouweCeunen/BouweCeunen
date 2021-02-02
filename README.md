@@ -10,4 +10,4 @@
 - [LinkedIn](https://www.linkedin.com/in/BouweCeunen/)
 - [Medium](https://www.medium.com/BouweCeunen)
 - [Kaggle](https://www.kaggle.com/BouweCeunen)
-- [Numerai](https://www.numer.ai/ceunen_)
+- [Numerai](https://www.numer.ai/ceunen_axon)
