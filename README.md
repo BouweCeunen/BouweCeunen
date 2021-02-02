@@ -11,4 +11,4 @@
 - [Medium](https://www.medium.com/BouweCeunen)
 - [Kaggle](https://www.kaggle.com/BouweCeunen)
 - [Numerai](https://www.numer.ai/ceunen_axon)
-- [Signals](https://www.signals.numer.ai/ceunen)
+- [Signals](https://signals.numer.ai/ceunen)
