@@ -1,8 +1,5 @@
 # Machine Learning / DevOps / SRE engineer @ [Ceunen.io](https://www.ceunen.io)
 
-![Bouwe Ceunen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouweceunen&show_icons=true&theme=graywhite)
-
-
 ### 💬 Get in touch
 
 - [Web](https://www.bouweceunen.com/)
